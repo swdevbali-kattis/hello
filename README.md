@@ -1,0 +1,1 @@
+Ini program kattis pertamaku!
